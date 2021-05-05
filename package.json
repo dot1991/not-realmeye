@@ -1,0 +1,25 @@
+{
+  "name": "not-realmeye",
+  "version": "1.0.0",
+  "description": "full codebase, javascript deobfuscation and assets for realmeye",
+  "author": "him <im@him.is>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrn/not-realmeye.git"
+  },
+  "keywords": [
+    "realm",
+    "realmeye",
+    "eye",
+    "rotmg"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrn/not-realmeye/issues"
+  },
+  "homepage": "https://github.com/abrn/not-realmeye#readme"
+}
